@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief survey, or, inquiry made into some particular proceedings of the Congregational churches 1. Concerning their sending forth of persons to preach unto the world, with some queries touching the warrantableness thereof. 2. Concerning such as refuse or neglect to compleat their churches with elders, according to Christs institution, but goe on in feeding and governing of them in common, a way of their own. 3. Concerning the inconsistency of their principles with their practice, that account the people of this nation to be the world, idolaters and antichristians, and yet heed them in their worshipping of God.</title>
+            <author>P. B.</author>
+         </titleStmt>
+         <extent>Approx. 53KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17376</idno><idno type="EEBO-CITATION">99828032</idno>
+  <idno type="VID">207756</idno>
+  <idno type="EEBO-PROQUEST">2248498606</idno>
+  
+            <idno type="STC">Wing B148A</idno>
+            <idno type="PROQUEST">99828032</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828032e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207756)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1944:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief survey, or, inquiry made into some particular proceedings of the Congregational churches 1. Concerning their sending forth of persons to preach unto the world, with some queries touching the warrantableness thereof. 2. Concerning such as refuse or neglect to compleat their churches with elders, according to Christs institution, but goe on in feeding and governing of them in common, a way of their own. 3. Concerning the inconsistency of their principles with their practice, that account the people of this nation to be the world, idolaters and antichristians, and yet heed them in their worshipping of God.</title>
+                  <author>P. B.</author>
+               </titleStmt>
+               <extent>[8], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, and are to be sold at the Black-spread-Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: P.B.</note>
+                  <note>The words "1. Concerning .. worshipping of God" are bracketed together on title page.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1944 as Wing (2nd ed.) B4654 (number cancelled).</note>
+                  <note>Reproduction of the original in the Congretional Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Congregational churches --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207756:1"/>
+            <pb facs="tcp:207756:1"/>
+            <p>A BRIEF SURVEY, OR, Inquiry made into some particular Proceedings of the CONGREGATIONAL CHURCHES.</p>
+            <list>
+               <item>1. <hi>Concerning their sending forth of Persons to preach unto the World, with some Que<g ref="char:EOLhyphen"/>ries touching the warrantableness thereof.</hi>
+               </item>
+               <item>2. <hi>Concerning such as refuse or neglect to com<g ref="char:EOLhyphen"/>pleat their Churches with Elders, according to Christs Institution, but goe on in feeding and governing of them in common, a way of their own.</hi>
+               </item>
+               <item>3. <hi>Concerning the inconsistency of their Prin<g ref="char:EOLhyphen"/>ciples with their practice, that account the People of this Nation to be the World, Ido<g ref="char:EOLhyphen"/>laters and Antichristians, and yet heed them in their worshipping of God.</hi>
+               </item>
+            </list>
+            <q>
+               <bibl>
+                  <hi>JOH. 15.14.</hi>
+               </bibl>
+               <p>Ye are my friends, if ye doe whatsoever I command.</p>
+               <bibl>
+                  <hi>JOH. 14.23.</hi>
+               </bibl>
+               <p>If a man love me, he will keep my Word.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> and are to be sold at the <hi>Black-spread-Eagle</hi> at the West end of <hi>Pauls.</hi> 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207756:2"/>
+            <pb facs="tcp:207756:2"/>
+            <head>
+               <hi>To the</hi> READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HAT thou meetest with here in the ensuing Dis<g ref="char:EOLhyphen"/>course, had come to thy hands with three other Par<g ref="char:EOLhyphen"/>ticulars, had not the Papers miscarried, by being stollen, or lost, when they were near Impressing.</p>
+            <p>The Particulars were of like nature with these here, containing 1. A serious Inquiry of the lawfulness and conveniency of the Congregationall Churches (called Indepen<g ref="char:EOLhyphen"/>dents) their mixing Interest with the Parish<g ref="char:EOLhyphen"/>es in the way of Worship, and building up their Churches in their Meeting places. The second thing was, a sober Inquiry into the Cause and Reasons the aforesaid Churches
+<pb facs="tcp:207756:3"/>make no proceed to compleat their Church<g ref="char:EOLhyphen"/>es with Elders, as were the Primitive Churches, but seem to content themselves with one single Elder onely. The third thing was about the multiplying of little Churches of that order, and perfecting or compleating of none, with some causes thereof, and inconveniences attending the same. Thou here shalt meet with three par<g ref="char:EOLhyphen"/>ticulars in this Discourse, one more general than the other, and so is set forth by way of Proposal, and making Inquiry into the war<g ref="char:EOLhyphen"/>rantableness of the thing discussed; to wit, the Congregational Churches sending forth persons to preach the Gospel to the World, as they pretend; whereabout there are sun<g ref="char:EOLhyphen"/>dry Queres modestly proposed to considera<g ref="char:EOLhyphen"/>tion, all left free to the search, inquiry, and judgement of all that shall read them, as God shall give them understanding.</p>
+            <p>The other particulars doe more particu<g ref="char:EOLhyphen"/>larly concern some of the Churches; where<g ref="char:EOLhyphen"/>in if any shall think there is something of the lash in this Discourse, they may please to consider the occasion, to wit, the slow<g ref="char:EOLhyphen"/>ness and dulness of those concerned, that
+<pb facs="tcp:207756:3"/>are no further yet, nor goe no faster to the advance of Christs glory in the Church, and yet please themselves as if they went fast enough, and faster than others; and were gone far enough, when they are not one whit further than when they first be<g ref="char:EOLhyphen"/>gan, <hi>As if the time were not yet come for the Lords House to be built,</hi> to wit, made com<g ref="char:EOLhyphen"/>pleat with all the furniture thereof, the Offi<g ref="char:EOLhyphen"/>cers and Administrators appointed by the Lord Jesus Christ.</p>
+            <p>It is much to see how zealously busy some are abroad, in the mean time careless at home; how compassionate some seem to be of others, and in the mean time negli<g ref="char:EOLhyphen"/>gent and careless of the good of their own relations, to whom they are tied by Gospel<g ref="char:EOLhyphen"/>bonds: It pleaseth some to be imployed in any thing, rather than that which is their own work and duty; if Christ should say to them, <hi>Who required this at their hands?</hi> they would be many-times at a great loss what to answer: how zealously doe some run up and down to preach and officiate to and for others, as if Christ had need of them? who needeth no mans sin to cause his grace
+<pb facs="tcp:207756:4"/>to abound; it may well be suspected, that it is something else besides pure zeal, that putteth men on to be in the place of Oratory continually as the Mouth of others; some with great content speak, as desiring to have the Churches to be Nurseries, from whence to take and transplant Preachers to the World. It may be feared it will be no welcome news to the Lord Iesus, that in<g ref="char:EOLhyphen"/>tended no such thing in the instituting his Church: Nurseries are low and fruitless Vienyards, and if the Lord look for fruit, he will find little in them: Experience hither<g ref="char:EOLhyphen"/>to hath shewed, how little the Churches are beholding to this course: Is not that mar<g ref="char:EOLhyphen"/>velous, that a Church of some good stand<g ref="char:EOLhyphen"/>ing, and full of Members, that hath sent out many Messengers to preach into the World, yet hath no Elders nor Deacons among them, no not one? was there ever such a thing read of in the Testament of our Lord, since these Offices were instituted? are they wiser than the Church of <hi>Hierusalem,</hi> that chose Deacons? or then the Churches that ordained Elders by election? Surely it may be a question worthy to be inquired into,
+<pb facs="tcp:207756:4"/>by such as are cautious of Church order, whether persons may continue Members of such Churches, yea or no, unless they re<g ref="char:EOLhyphen"/>pent and amend?</p>
+            <p>If any be offended with the publishing what is here proposed, it is hoped it's offence rather taken than given; if any profit come hereby to any, the Author hath his end, and by the knowledge thereof may be encou<g ref="char:EOLhyphen"/>raged to revive the particulars lost: If any please to reply by way of opposition, it shall be acceptable, and shall have the same Iudges; every way of man is right in his own eyes: but the righteous Lord judgeth righteously, to whom the whole Issue is re<g ref="char:EOLhyphen"/>ferred.</p>
+            <closer>
+               <signed>P. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="survey">
+            <pb facs="tcp:207756:5"/>
+            <pb n="1" facs="tcp:207756:5"/>
+            <head>A brief Survey, or Inquiry made into some particular Proceedings of the Congregational Churches.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>
+                     <hi>Containing an Inquiry into the warrantableness of the Con<g ref="char:EOLhyphen"/>gregational Churches, their sending forth of their number to preach into the World, or for any to go voluntarily, of their own accord, to make a trade of life thereof, with certain Que<g ref="char:EOLhyphen"/>ries thereabout.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">I</seg>T may be inquired into, not without just ground, Whether the Congregatio<g ref="char:EOLhyphen"/>nall Churches, of what denomination so<g ref="char:EOLhyphen"/>ever, have power from Christ, either jointly or severally, to send forth persons of their Number, or others, to go forth to preach the Gospell unto the World; <hi>And that</hi> either in a roving way, or fixedly in a Parish, and to make a trade or course of life so to do.</p>
+               <p>The warrantableness of a persons taking on this work, either by Commission aforesaid, or of his voluntary accord, out of some specious pretence and zeal for the glory of God, and good of others, may also be inquired into, as no less que<g ref="char:EOLhyphen"/>stionable then the former.</p>
+               <p n="1">1. It is here premised, that this ensuing Discovery intend<g ref="char:EOLhyphen"/>eth
+<pb n="2" facs="tcp:207756:6"/>no questioning of, or opposition to the prudentiall care and undertaking of the Rulers of the State or Nation, in pro<g ref="char:EOLhyphen"/>viding that the people be informed in the knowledge of God, and their duty to their neighbour; onely it were to be wished, they might have some other name then Ministers of Christ, and his Gospell.</p>
+               <p n="2">2. This intentionally medleth not with the way and course of those called Presbyterians, in their making and sending forth Ministers to preach; inasmuch, as be their course right or wrong, it is more rationall upon this account, They hold<g ref="char:EOLhyphen"/>ing a large form of the Church, no less in the increase of it than Nationall, their sending being into the Church, ac<g ref="char:EOLhyphen"/>cording to their account, and not out of it to the World.</p>
+               <p n="3">3. Neither doth this intend any opposition to that law<g ref="char:EOLhyphen"/>full right which belongeth to every Believer, to use his Ta<g ref="char:EOLhyphen"/>lent, and to communicate the Gift they have received to o<g ref="char:EOLhyphen"/>thers,
+<note place="margin">1 Pet 4.10.</note>
+                  <hi>as good Dispensers of the grace of God;</hi> it being a duty that lieth on them in their place, according to such oppor<g ref="char:EOLhyphen"/>tunities Divine Providence presents unto them; no not if a person in the place God hath cast him to live in, should be found frequent in so doing, at set times, by set speeches, com<g ref="char:EOLhyphen"/>municating his light and knowledge to others, <hi>Luk</hi> 22.32. All which are here mentioned, to restrict the case, and make it more narrow and clear, that if any please to offer any thing to the contrary, they may do it to the purpose, keeping close to the question.</p>
+               <p>Which is the power particular Congregations have from Christ, either jointly or severally, to send forth of their Num<g ref="char:EOLhyphen"/>ber, to preach to the World to convert them, as they pre<g ref="char:EOLhyphen"/>tend, and to make a trade, or course of life of it, which is the first thing.</p>
+               <p>Secondly, That a particular person may warrantably, ei<g ref="char:EOLhyphen"/>ther as so sent, or voluntarily of himself, take on such a way and course.</p>
+               <p n="1">1. For that there seemeth to be no footing in the Word of God for either, the Scriptures duely weighed, our Lord Christ having not spoken at all concerning this,
+<note place="margin">Ier. 7.22.</note> which Ne<g ref="char:EOLhyphen"/>gative Argument the Apostle counts good, <hi>Heb.</hi> 1.14. <hi>Ʋnto
+<pb n="3" facs="tcp:207756:6"/>which of the Angels said he at any time? Paul</hi> and <hi>Barnabas</hi> when they visited the Church, <hi>Acts</hi> 14.23. <hi>and ordained El<g ref="char:EOLhyphen"/>ders in every Church;</hi> did they say any thing of this? did they take any order, and give any direction concerning the same? They took care for the Churches, that they were provided for with Elders: but did they cause them to take of their able Brethren, and to send them out to the parts near <hi>Asia,</hi> sent to preach unto the World to convert them? much less did they take Elders from their Charge to do it: Did that great Apostle of the Gentiles, when <hi>he sent for the El<g ref="char:EOLhyphen"/>ders of the Church of</hi> Ephesus, <hi>Acts</hi> 20.17. and laid such strait charge on them,
+<note place="margin">Acts 20.28.</note>
+                  <hi>To take heed to the whole Flock the holy Ghost had made them Overseers of,</hi> say any thing concerning the Churches sending out? Sure it seemeth it never came into his mind, much less that those Elders should leave the charge and care of Christs beloved Spouse, and go labour and take care for they knew not who; and so set up the trade of making Sermons, or set Speeches, attended with Prayers, to persons that they account, according to their grounds, to have no relation to Christ, nor interest in him in their present condition.</p>
+               <p>Did the Apostle <hi>Peter in his beseeching the Elders to feed the Flock, &amp;c.</hi> say any thing of this sending forth?
+<note place="margin">1 Pet. 5.1.</note> did it ever enter into his thoughts, that Churches of Christ should suffer for the sake of those that have no interest in him?</p>
+               <p>It is said indeed, that <hi>If any man desire the office of an Elder,</hi>
+                  <note place="margin">1 Tim. 3.1, 2, 5, 7.</note>
+                  <hi>he desireth a worthy work;</hi> And <hi>that the Elders are worthy double honour, specially such as labour in Word and Doctrine:</hi> but did he ever speak any thing concerning them that either are sent, or go of themselves out of the Church, to preach unto the World? alas, there is no such thing to be found.</p>
+               <p n="2">2. It may be considered, how greatly this sending forth out of the Church persons of able parts, or encouraging such as go of themselves, obstructeth the growth of the Churches to that full compleatness in Officers and Administrations, which otherwise it might attain unto; for from hence, among other causes, it cometh to pass, that persons of able parts, and publique spirits, fit for Elders and Officers in the Churches
+<pb n="4" facs="tcp:207756:7"/>of Christ, are wanting so, as to be chosen to, and to take on the said service and charge, and one single person is found carrying on the work, which was appointed by our Lord to be done by many; And though he thought it sufficient for many, in regard of the burthen and charge of it, in a spiritual consideration, being for the good of his beloved Spouse, yet in order to the advance and helping on this preaching way and course, one must suffice the Churches; and a Church may think themselves well, and count themselves happy, that can get one of Parts and Learning, or keep him when they have gotten him; to have two such to serve together as El<g ref="char:EOLhyphen"/>ders in one Church, is exceeding rare, and all this in order to the preaching to the World, that they may be provided for, and their good means enjoyed, which the Churches of Saints have not to give forth, and so may sit alone: what great en<g ref="char:EOLhyphen"/>couragement is given to this? what little stress on the other? none at all, to be a Fellow-elder in the Church, as if it were not necessary, that having but one, the Church might be tied wholly to him, so as he might be as a Monarch, and tie all them.</p>
+               <p>The worldly advantages and encouragements prevailing with very many to run out of the Church, and quit their at<g ref="char:EOLhyphen"/>tendance on God there, to set up this trade and course; yea, which is marvellous, Elders and Teachers of the Churches, that pretended <hi>the holy Ghost made them Overseers in his Churches,</hi> leave their charge of feeding and caring for his Churches, and betake themselves to this course; it were to be wished we had not too many sad examples of this: Is it not a great riddle, that that which they count the World and People unconverted (so is their Tenet) should be preferred before the beloved Spouse of the Lord Christ,
+<note place="margin">Eph. 5.25, 26. Eph. 4.8.</note>
+                  <hi>for whom he gave himself, and gifts also, at his ascension, for their edifying?</hi> which gifts the Saints in his Churches ought not to be robb'd of upon any such specious pretence, as to convert the World, and help them that are without the Church, by a way and course never appointed by our Lord Christ, who without any mens sin, shall answer for the converting and drawing to him such as belong unto him. <hi>Joh.</hi> 6.3.7.</p>
+               <pb n="5" facs="tcp:207756:7"/>
+               <p> Let this be weighed and considered of, and see if it be not found a great hindrance of the Church of her enjoyments, a robbing of them of their rights, keeping them in a low con<g ref="char:EOLhyphen"/>dition, without the full enjoyments of the blessed provision of the Lord Christ, provided for their good.</p>
+               <p n="3">3. This assuming of power to send forth to preach, and the taking on this course of a preaching way of life, is but old Popery in a new dress; at least it is so like it as four pence is to a groat; the Romish Church challenging, as from Christ, to have this power, alledging Scriptures, and the very same Scriptures, to prove their warrant for their thus sending forth, doing it upon the same specious pretences, as the glory of Christ, the propagating and spreading the Gospell, zeal and pity to poor ignorant and erring souls, the converting of them to Christ, and the faith of the Gospel, enlarging the Church, &amp;c.</p>
+               <p>Upon the pretended grounds aforesaid, they send forth some of their number, to wit, the Monks and Friers, the Priests and Jesuits, to the Infidel and Heretick Nations, to convert and gain them to the faith of Christ, and his Church: all which notwithstanding hath no foundation in, nor warrant from the Word of God, but is meerly Popish and Anti<g ref="char:EOLhyphen"/>christian.</p>
+               <p>Is it not the very same in the Congregational Churches? First, upon the account of being Christs Churches, to challenge such a power as Christ never gave, and then to send forth thereupon, in such a way as is wholly without Divine War<g ref="char:EOLhyphen"/>rant; and to do it upon such like specious pretences, of the glory of Christ, and good of souls; as if they had taken their pattern thence, as sometime <hi>the pattern of the Altar at</hi> Da<g ref="char:EOLhyphen"/>mascus <hi>was taken, to be set up in</hi> Israel, <hi>in the Temple of the Lord God,</hi> 2 King 16.10.</p>
+               <p n="4">4. The Testimony of those godly Reformers in Queen <hi>Elizabeth</hi> her time, Master <hi>Cartwright</hi> and others, called Non-conformists, may be called in and considered of, and it will be found how fully they give forth their witness a<g ref="char:EOLhyphen"/>gainst such Preachers, and their roving course, as strangers to Christ and his Gospel, where their name is not to be found.</p>
+               <pb n="6" facs="tcp:207756:8"/>
+               <p> But because some are marvelously taken about this send<g ref="char:EOLhyphen"/>ing forth to preach, laying wonderfull stress on it, as the onely choice thing for the propagating the Gospel, and ex<g ref="char:EOLhyphen"/>alting the honour of Christ, not minding that <hi>his glory doth chiefly shine forth in his Church:</hi>
+                  <note place="margin">Eph. 3.21:</note> It is proposed in this case to their consideration,
+<note place="margin">Luk. 16.15. Esay 8.20.</note> that many times <hi>things highly esteemed by men, are not so esteemed of the Lord: To the Law and to the Testimony.</hi> Let the Churches Authority to send forth be pro<g ref="char:EOLhyphen"/>duced, or the Warrant of particular persons to be so sent, or to go voluntarily, of their own accord, be shewn, that so they may be able to avoid that reproof of the Prophet from the Lord, <hi>I have not sent these Prophets, yet they ran; I have not spoken unto them, yet they prophesied,</hi> Jerem. 23.21.</p>
+               <p>And because some are much taken with the seeming great fruit attending this course, which if throughly looked into, will not be found so as some take it to be, and would have it.</p>
+               <p>First, Gods blessing it ordinarily goeth along in his own way;
+<note place="margin">Ier. 23.22.</note>
+                  <hi>It is written, if they had stood in my Counsel, and decla<g ref="char:EOLhyphen"/>red my Word to my people, then they should have turned them from the evill of their way, &amp;c.</hi> but for the want of this they <hi>bring no profit, saith the Lord.</hi> Voluntary Religion, and un<g ref="char:EOLhyphen"/>grounded Zeal, profiteth little; what it doth, it is acci<g ref="char:EOLhyphen"/>dentall, by the over-ruling power of the great <hi>Jehovah,</hi> whom we are not to tempt.</p>
+               <p>Secondly, The person thus employed is upon temptation, in his being thus sent forth,
+<note place="margin">Eccl. 4.10.</note> or going of himself, <hi>He going alone, and not having a second to help him up if he fall:</hi> so as sad instances now as formerly, sheweth how persons have mis<g ref="char:EOLhyphen"/>carried in this way and course.</p>
+               <p>Zealously he going forth alone on this errand, to enliven and spiritualize others, by little and little groweth cold, and dead, and carnall to himself, the World seizing on him; he at last beginneth to think that rest is good, fixeth himself in some Parish gathering, putteth forth himself to some world<g ref="char:EOLhyphen"/>ly advantage; which that he may with the more certainty enjoy, he taketh one to be Minister there, and accordingly car<g ref="char:EOLhyphen"/>rieth himself; and so by degrees he betaketh himself to do,
+<pb n="7" facs="tcp:207756:8"/>what he abominated the doing of formerly; so as to his first principles and testimony touching the cause of the Congrega<g ref="char:EOLhyphen"/>tional Churches, he is wholly lost; it were to be wished, that this were not too too true, by too too many instances.</p>
+               <p>What a sad temptation was this man put upon, to be sent, or to go alone from the presence of Christ in his house and watchfull care of the Church, upon a specious Errand, with<g ref="char:EOLhyphen"/>out Divine Warrant? where, good soul, if he fall, there is no second to help him up;
+<note place="margin">Eccl. 4.10.</note> so losing the sweet society of the Saints in Christs Church, to go to converse at large in the World, where he meeteth with many a bitter pill, and dry morsell, instead of that sweet content that is injoyable in the hidden Manna in <hi>Sion;</hi> he at first may be high flown; stollen waters are sweet; <hi>But Gods blessing is in his own way; in</hi> Sion <hi>he hath appointed it, and life for evermore.</hi> Psal. 133.3.</p>
+               <p>For is it not a sad thing for a soul that is spirituall and godly, to go from the presence of Christ in his Church, and from the fellowship and communion of his Saints there, and to fix himself in a Parish to be their Minister, to officiate to them in spirituals, in which they have no savour, when of two or three hundred persons, or more, full of ignorance and pro<g ref="char:EOLhyphen"/>phaness, not two or three, if any, can be found, in whom the life of the spirit, and power of godliness doth appear? Is not the case of such a one like the <hi>living in</hi> Mesech <hi>and</hi> Ke<g ref="char:EOLhyphen"/>dar? <hi>Psal.</hi> 120.5. and his going out like that of <hi>Cain, that went out from the presence of God, and dwelt in the land of</hi> Nod? <hi>Gen.</hi> 4.16.</p>
+               <p>But in as much as this concerneth many, and is contro<g ref="char:EOLhyphen"/>vertible, though many would have it for granted before it be proved; and for that freedome in judging is necessary to be allowed to every one, as to any one, none having greater power then others to judge and conclude infallibly, neither can they, whatever they may pretend unto: for further con<g ref="char:EOLhyphen"/>sideration, by way of looking into this matter, here are sun<g ref="char:EOLhyphen"/>dry Queres proposed.</p>
+               <div n="1" type="query">
+                  <pb n="8" facs="tcp:207756:9"/>
+                  <head>
+                     <hi>QƲERE</hi> I.</head>
+                  <p>It is humbly Queried, by what warrant of the Word it can be made to appear, that any Congregation of Christ hath power given them from him, to send forth of their number, or others, to preach unto the World, and to go up and down in a preaching way, making a trade or course of life of it?</p>
+               </div>
+               <div n="2" type="query">
+                  <head>
+                     <hi>QƲERE</hi> II.</head>
+                  <p>Whether these sent forth to preach by the aforesaid Churches (or going of themselves) are sent forth (or go) as the Ministers of Christ, yea or no? And if as Christs Mi<g ref="char:EOLhyphen"/>nisters, under what denomination of Ministry in the way of their mission, how they are to be received, considering our Lord saith, if he send any, they that receive them receive him?</p>
+               </div>
+               <div n="3" type="query">
+                  <head>
+                     <hi>QƲERE</hi> III.</head>
+                  <p>Whether the sending forth (or voluntary going) be of a religious nature, or of a civil; whether it be in a spiritual way, or a prudential; how they themselves are to account themselves, or others, to esteem of them, and of their way and course?</p>
+               </div>
+               <div n="4" type="query">
+                  <head>
+                     <hi>QƲERE</hi> IV.</head>
+                  <p>Whether the <hi>sending forth of the twelve Apostles,</hi>
+                     <note place="margin">Math. 10.1. Luke 9.1.10.1.</note>
+                     <hi>or seventy Disciples by our Lord,</hi> be presidents warranting any particu<g ref="char:EOLhyphen"/>lar Church, or Churches, to send forth also; or whether it be not a high kind of presumption, without a speciall and par<g ref="char:EOLhyphen"/>ticular warrant from her Head and Husband, the Lord Christ, to take on the doing of it, it being too too much for her to take on her to do as he did, without warrant from him?</p>
+               </div>
+               <div n="5" type="query">
+                  <pb n="9" facs="tcp:207756:9"/>
+                  <head>
+                     <hi>QƲERE</hi> V.</head>
+                  <p>Whether unless persons were endued with such qualificati<g ref="char:EOLhyphen"/>ons as those were endued with sent by our Lord, <hi>so as to be able to work miracles, namely, to heal the sick, cast out Devils,</hi>
+                     <note place="margin">Mat. 10.8. Luk. 9.1.10.9.</note>
+                     <hi>&amp;c.</hi> they may either be sent forth by Churches, or go them<g ref="char:EOLhyphen"/>selves, upon a golden pretence of converting of souls, and propagating the Gospell of the Lord Christ?</p>
+               </div>
+               <div n="6" type="query">
+                  <head>
+                     <hi>QƲERE</hi> VI.</head>
+                  <p>Whether the persons so sent, or going of themselves,
+<note place="margin">Mat. 10.9, 10, 11, &amp;c. Luk. 9.3, 4, 5.10.4, 5, 6, 7, 8, &amp;c.</note> are not strictly bound to those rules and directions, cautions and restrictions that they were tyed unto, that were sent out by our Lord himself, and upon what ground they may presume to wave them, and yet to pretend their warrants from those presidents?</p>
+               </div>
+               <div n="7" type="query">
+                  <head>
+                     <hi>QƲERE</hi> VII.</head>
+                  <p>Whether that in the 28<seg rend="sup">th</seg> of <hi>Mathew,</hi> v. 19. <hi>Go teach all Na<g ref="char:EOLhyphen"/>tions, &amp;c.</hi> have any Divine Warrant in it for the Churches sending forth, or for a persons voluntary going forth so to preach; in as much as that is but an enlarging of their com<g ref="char:EOLhyphen"/>mission sent out before by our Lord, and restricted to the Na<g ref="char:EOLhyphen"/>tion of the Jews only, to wit,
+<note place="margin">Luk. 10.5.</note>
+                     <hi>the Apostles and seventy Disci<g ref="char:EOLhyphen"/>ples,</hi> now the partition wall was to be taken down; and besides, they were to teach all Nations as they did, and not some little corner of some little Island; and further, they were <hi>to ba<g ref="char:EOLhyphen"/>ptize, and teach them to observe all the commands of Christ,</hi> which many of these meddle not with?</p>
+               </div>
+               <div n="8" type="query">
+                  <head>
+                     <hi>QƲERE</hi> VIII.</head>
+                  <p>Whether if the Churches have power warrantably to send forth, whether they are not bound <hi>to send by two and two,</hi>
+                     <note place="margin">Luk. 10.1.</note>
+                     <hi>as Christ our Lord sent his Apostles and Disciples,</hi> there being
+<pb n="10" facs="tcp:207756:10"/>no president in holy Scripture of sending one alone; and the rather, because it is said, <hi>Wo unto him that is alone, he falling there being no second to help him up again?</hi> Eccl. 4.10.</p>
+               </div>
+               <div n="9" type="query">
+                  <head>
+                     <hi>QƲERE</hi> IX.</head>
+                  <p>Whether the Churches <hi>sending out</hi> Paul <hi>and</hi> Barnabas <hi>to preach,</hi>
+                     <note place="margin">Acts 13.3, 4.</note> have in it any warrant for the Churches now sending out of their number also, unless they had such a Divine Warrant as the Church of <hi>Antioch</hi> had, <hi>To whom the holy Ghost said, Separate me</hi> Paul <hi>and</hi> Barnabas <hi>to the work whereunto I have appointed them?</hi>
+                     <note place="margin">V. 2.</note> If the holy Ghost say so now to any Church, let them send forth, and not fail to do it, especially if they have such men to send as <hi>Paul</hi> and <hi>Barnabas?</hi>
+                  </p>
+               </div>
+               <div n="10" type="query">
+                  <head>
+                     <hi>QƲERE</hi> X.</head>
+                  <p>Whether the examples in holy Writ,
+<note place="margin">Acts 15.25. 2 Cor. 8.23.</note> as the <hi>Church of</hi> Je<g ref="char:EOLhyphen"/>rusalem <hi>sending to</hi> Antioch, it being said, that <hi>these Messengers of the Churches are the glory of Christ,</hi> be any Divine War<g ref="char:EOLhyphen"/>rant for the Churches to send forth of their number so to preach?</p>
+                  <p>In as much as they <hi>were sent from Church to Church,</hi>
+                     <note place="margin">Acts 8.14, 15. 2.25. 2 Cor. 8.18, 24.</note>
+                     <hi>to communicate counsels, to give and take advice, to strengthen and confirm where they heard of the grace of God begun,</hi> and were not sent to preach, or in a preaching way?</p>
+               </div>
+               <div n="11" type="query">
+                  <head>
+                     <hi>QƲERE</hi> XI.</head>
+                  <p>Whether that in the 10<seg rend="sup">th</seg> of the <hi>Romans,</hi> v. 13. <hi>How shall they preach except they be sent?</hi> have any Divine Warrant in it for the Churches sending forth to preach? All sending be<g ref="char:EOLhyphen"/>ing extraordinary, or ordinary; Ordinary being in and by the Church, for the edifying of the Church, not to or for the World,
+<note place="margin">1 Cor. 12.28.</note>
+                     <hi>God hath set in his Church, &amp;c.</hi> Extraordinary mis<g ref="char:EOLhyphen"/>sion being by the Lord himself, such as were the Apostles and Prophets of old, who were endued and furnished by him with gifts, and a spirit fit for the message they were sent on,
+<pb n="11" facs="tcp:207756:10"/>a spirit of infallibility, and power of working miracles, not now to be found in the World since the exaltation of the man of sin.</p>
+               </div>
+               <div n="12" type="query">
+                  <head>
+                     <hi>QƲERE</hi> XII.</head>
+                  <p>Whether that of the vision to <hi>Paul,</hi>
+                     <note place="margin">Acts 16.9.</note>
+                     <hi>A man appearing to him, saying, come into</hi> Macedonia <hi>and help,</hi> have any warrant in it for the Churches sending forth to preach, unless the Church had such a vision appearing to them to require such help, and such a person to send as <hi>Paul,</hi> that was an Apostle, and was endued with an Apostolique spirit?</p>
+               </div>
+               <div n="13" type="query">
+                  <head>
+                     <hi>QƲERE</hi> XIII.</head>
+                  <p>Whether that of our Lord in the 9<seg rend="sup">th</seg> of <hi>Mathew,</hi> v. 38. re<g ref="char:EOLhyphen"/>quiring of his, <hi>Ʋpon his observation of the greatness of the har<g ref="char:EOLhyphen"/>vest, and fewness of the labourers, to pray the Lord of the har<g ref="char:EOLhyphen"/>vest to send forth labourers into his harvest,</hi> have any warrant in it for the Churches sending forth? it being onely an in<g ref="char:EOLhyphen"/>junction to pray the Lord of the harvest to send forth, and not for any to go unsent, or for any to send but the Lord of the harvest? If the Church were Lord of the harvest, it were something, but alas she is not. And besides, the harvest there seemeth rather to be the Church then the World, for the partition wall was not broken down, nor the restriction taken off, of <hi>not going to the Gentiles, but to the lost sheep of the house of</hi> Israel, <hi>Luke</hi> 10.5.</p>
+               </div>
+               <div n="14" type="query">
+                  <head>
+                     <hi>QƲERE</hi> XIV.</head>
+                  <p>Whether that of the Apostle <hi>Peter,</hi> 1 Pet. 4.10. <hi>Let every man, as he hath received the gift, administer the same one to another, &amp;c.</hi> have any Divine Warrant for this sending, or voluntary going forth to preach? First, for that it relateth to gifts in general, and not to that onely of knowledge and utterance. Secondly, for that it is to be performed in and among the Saints one to another, and not to the World;
+<pb n="12" facs="tcp:207756:11"/>being of like understanding with that, 1 <hi>Cor.</hi> 12.7, 8, 9, 10. it may hold forth a warrant for a general liberty of speak<g ref="char:EOLhyphen"/>ing in the Church, by such as have the gift, against those that would monopolize it to themselves; but to raise a ground of a preaching course cannot rationally be gathered thence.</p>
+               </div>
+               <div n="15" type="query">
+                  <head>
+                     <hi>QƲERE</hi> XV.</head>
+                  <p>Whether persons that in regard of their youth, lowness of parts, want of humane arts and learning, are not judged meet and fit to bear the office of Elders in these Churches, nor not in a joynt way with others of greater abilities and esteem, may yet be thought fit and meet to be sent forth as Mes<g ref="char:EOLhyphen"/>sengers of the Churches in this Apostolique preaching way, and that alone, without any Assistant, as if this preaching way was the lesser, lower, and more inferiour imployment? Notwithstanding, as if this preaching course were more for the glory of Christ, and advance of his Gospel (though it be out of the Church) not onely those before, not thought fit to be Elders, but Elders and Officers of the Church of the highest degree and esteem, even Pastors, quit their service of Christ in the Church, and become wandring Stars; or fixed out of the Church, so leaving the greater, and taking on the less, according to their former account; whether such principles and proceedings be not high contradictions, <hi>and yea and nay in Gospel matters,</hi> having much of the spirit of the world, and the prudence of it, rather then of the simplicity of the Gospel to be seen, and perceived therein?</p>
+               </div>
+               <div n="16" type="query">
+                  <head>
+                     <hi>QƲERE</hi> XVI.</head>
+                  <p>Whether persons sent forth by the aforesaid Churches, (or going of themselves) being such as upon grounds from Scripture have of conscience left the Parishes, as not to be continued in, may warrantably go into the Parish Meeting-places at the usuall time of their Assembling to worship, and there after the accustomed manner of their Minister in his officiating with them and for them, in the way of their or<g ref="char:EOLhyphen"/>dinary
+<pb n="13" facs="tcp:207756:11"/>worship there; He in the Pulpit as their mouth, may make prayers to God with them and for them? then proceed to make a set Speech or Sermon unto them from some part of the Word, ending with a prayer for a blessing, so ending the worship and meeting at that time, dismissing the whole with the blessing of <hi>The grace of our Lord Christ, &amp;c.</hi> The Divine Warrant of this complyance and manner is queried the rather;</p>
+                  <p>First, for that there seemeth to be no footsteps of any of this in the holy Scriptures, from any of the examples of those that were sent out to preach.</p>
+                  <p>Secondly, it seemtth to cross the main end pretended in their going forth (to wit, the converting of them, reclaiming them, and bringing them to Christ) as speaking out they are Christs Church, persons converted, and in a good condition, whatever is said or spoken to the contrary, in that their wor<g ref="char:EOLhyphen"/>ship is thus carried on for them by such persons, and in such manner, as is in Churches of higher claim both for matter and manner of serving God.</p>
+                  <p>Thirdly, whether by this means the worldly constitution of the Church, and formall way of worship be not kept up and carried on, and persons kept in it, to go on and do as their Fathers did before them; this formality and customary way of Religion and Worship being a great enemy to the life and power of true Religion and Godliness.</p>
+               </div>
+               <div n="17" type="query">
+                  <head>
+                     <hi>QƲERE</hi> XVII.</head>
+                  <p>Whether the Congregational Churches holding, as they do, concerning the Parishes in fact, leaving of them, as not to be continued in but forsaken; in speciall those that are high-flown in their opinion of them, counting them no other then the World, Antichristian gatherings, heaps of confusion, un<g ref="char:EOLhyphen"/>baptized Infidels, &amp;c. that have no right to the Ordinances, nor have any thing to do with the worship of God, being such: Whether these, or any of these, can without high vio<g ref="char:EOLhyphen"/>lation of their principles, and being Trespassers to their own grounds, joyn with these in their worship, so as to be their mouth to God for good things, and as from God to speak
+<pb n="14" facs="tcp:207756:12"/>unto them in a worship wise? Whether the practice herein do not give their judgement to lye and flat deniall? And whether to any rationall judgement they do not make them<g ref="char:EOLhyphen"/>selves Trespassers to their own Law?
+<note place="margin">2 Cor. 6.</note>
+                     <hi>Thus joining light and darkness, Christ and Beliall together, and making the members of Christ not onely to become the members, but the head and chieftain of a harlot, and rebellious number;</hi> weigh the prin<g ref="char:EOLhyphen"/>ciples and practice, and see what consistency you can find therein?</p>
+                  <p>Sundry other Queries might be made concerning the a<g ref="char:EOLhyphen"/>foresaid matter, as what it is to preach, what Gospel preach<g ref="char:EOLhyphen"/>ing was in the Primitive times; whether our way of preach<g ref="char:EOLhyphen"/>ing and theirs be the same, in relation to preaching to the world? whether length of time and custome have not con<g ref="char:EOLhyphen"/>tracted some corruption about this matter, as it hath done in other the like things? but for the present there shall be no further proceed.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>
+                     <hi>Concerning those of the Congregational Churches, specially those of the way called Anabaptists, that go on affectedly, as it seemeth, to feed and govern their Churches without Officers, in common by a way of their own choosing, never instituted by the Lord Christ.</hi>
+                  </p>
+               </argument>
+               <p>WHAT high challenge and claim the said Churches make, to be the only faithful followers of the Lord Christ in the way of his Ordinances, all others being nothing in comparison of them, is sufficiently known: but how fully and faithfully they do observe the Ordinance of Christ, not<g ref="char:EOLhyphen"/>withstanding their great boasting, may be seen for a touch, in two particulars.</p>
+               <p>First, in their not compleating their Churches with El<g ref="char:EOLhyphen"/>ders, as if that were no Ordinance of Christ, had no presidents in the Gospel, were not a duty belonging to them; as if
+<pb n="15" facs="tcp:207756:12"/>that Scripture, and other of like tendency, were <hi>Apocrypha,</hi> Heb. 13.17. <hi>Obey them that have the oversight of you, &amp;c. they watch for your souls as they that must give account:</hi> Some of the aforesaid Churches have onely one single Elder, instead of Elders; and some Congregations, though numerous, and furnished with persons of great abilities in their esteem, have no Elders at all (no not one) but think themselves very well without, as if they were wiser then our Lord himself; they affectedly, as it seemeth, carry on all in common, feed and govern the Church in common, administer the Ordinances by turns by some of the most eminent members, so going in this way of their own, though it be none of Christs.</p>
+               <p>It is taken for granted, that these being no seekers, hold the continuation of all Gospel Ordinances, as attainable and enjoyable by the Saints, as the Church and Church-meetings to worship, Church-ordinances, Baptism, and the Lords Sup<g ref="char:EOLhyphen"/>per, and surely also <hi>Elders by election in every Church;</hi>
+                  <note place="margin">Acts 14.</note> as be<g ref="char:EOLhyphen"/>ing of the like nature with the former, and instituted for the profit of the Church also, as those were.</p>
+               <p>Which if so, how cometh it to pass, that those that speak of such high things, profess such love and faithfulness to Christ the Lord, should slight him so in his institutions, shew such partiallity towards his Ordinances as in this seemeth to ap<g ref="char:EOLhyphen"/>pear, when as <hi>the Ordinances of Christ, and his appointments are to be observed impartially, without preferring one before an<g ref="char:EOLhyphen"/>other?</hi> 1 Tim. 5.21.</p>
+               <p>What great stress is laid by these on baptizing? and to be sure to be right, they baptize over and over again; and the more to enforce this their way and course, they catch at every Scripture that maketh mention of the name of it, though it be nothing at all to the purpose for which it is al<g ref="char:EOLhyphen"/>leadged.</p>
+               <p>But though it <hi>be very commendable to observe all the Or<g ref="char:EOLhyphen"/>dinances of our Lord, and to remember all his sayings of truth,</hi>
+                  <note place="margin">1 Cor. 11.1.</note> yet they can give the hearing to those places of the Word that speak of the institution of Elders in the Church, and the examples and practises of the Primitive Churches, and make nothing of it; <hi>The Church of</hi> Ephesus,
+<note place="margin">Acts 20.27.</note>
+                  <hi>with their Elders
+<pb n="16" facs="tcp:207756:13"/>that holy</hi> Paul <hi>sent for to commune with,</hi>
+                  <note place="margin">Acts 20.17. Acts 14.23.</note> is nothing; <hi>The or<g ref="char:EOLhyphen"/>daining Elders by election in every Church,</hi> is nothing; <hi>The Elders that rule well, &amp;c.</hi> is nothing; <hi>The Elders that are among you I beseech, which am also an Elder, feed the flock of Christ, &amp;c.</hi> is nothing to them, for they have no Elders to be intreated; some have one single Elder onely, but many have none at all, but they have gifted brethren: but they dare not venture to come under the yoke of the Lord Christ to choose them Elders, the name would hurt their freedome, and be offensive to them; some old Elders of the Priestly race, that were bred up at Universities to Mastership, and Lordly rule, have frighted them so, as they dare not adven<g ref="char:EOLhyphen"/>ture to trust any of their brethren in the way of Christ his Ordinance, no not to bear the name, much less the office or power: But the Church must be sed, and governed, and ad<g ref="char:EOLhyphen"/>ministred unto by another way of their own devising; for though they profess to love the Lord Jesus, and some of his holy Ordinances, and are very zealous of baptizing, to wit, by dipping persons head and ears under the water (poor souls!) that were baptized before, touching which our Lord never spake one word to them of; yet the Lord Christ must have them excused in this, if they refuse to have his Church fed, and governed, and administred unto his own way, they having found out a better.</p>
+               <p>If holy <hi>Paul</hi> were to send for their Elders to commune with, as sometimes he did <hi>for the Elder of the Church of</hi> E<g ref="char:EOLhyphen"/>phesus, at what a loss would they be at to excuse themselves, in sending their gifted brethren instead of Elders?</p>
+               <p>If any of their number <hi>should be sick,</hi> and should be con<g ref="char:EOLhyphen"/>scious of their duty in that case, according to the direction of the holy Apostle, <hi>James</hi> 5. <hi>Is any sick, let him send for the Elders of the Church, and let them pray, &amp;c.</hi> Alas (poor souls!) at what a loss are they? they have no Elders in their Churches to send for, and so for want hereof cannot perform their duty, nor comfortably upon performance thereof expect the promise, that <hi>the prayer of faith shall save the sick.</hi>
+               </p>
+               <p>And is it not very much that Churches that have sent out
+<pb n="17" facs="tcp:207756:13"/>so many Messengers out of their numbers to preach to the world to help them, which the Lord Jesus never spake to them about, nor required of them, should have no more care at home of the Church, of compleating that according to the Ordinance of Christ, that as yet they have not called, chosen, set apart, sent forth, not one into the Vineyard of the Lord Jesus, which is his Church, <hi>Esa.</hi> 5. how unlike minded they are to the Lord in this: They may please to consider, to make his Church compleat and glorious, he gave himself, he gave gifts; all their care is for others abroad, not minding the Church at home: And though there be variety of con<g ref="char:EOLhyphen"/>ceptions, and a great desire to bring forth some new thing by those of that way, some having set on foot the imitation of the greeting one another with an holy kiss, the Love<g ref="char:EOLhyphen"/>feast, or Supper before the Lords Supper, the laying on of hands, yea an endeavour after the gift of miracles, which could they attain, they would be some-body indeed. Yet is this of having the Church furnished with Elders, ge<g ref="char:EOLhyphen"/>nerally slighted and neglected of all, no stress at all being laid thereon.</p>
+               <p>Matter of Argument shall be forborn, as taking it for granted, that the defect riseth from remisness, and not from opposition, although some are disposed that way; for is it not a fine Quibble to say, that Elders are nothing but old men? so a fine sense would follow of the words of the Apostle, <hi>Act.</hi> 14. <hi>They ordained therein Elders by election in every Church:</hi> as much as to say, they ordained old men to be old men, by choosing them to be old.</p>
+               <p>But peradventure they may have taken in another Popish opinion, of a general universal Church, of which their Con<g ref="char:EOLhyphen"/>gregations are but parts (as well as that of other Churches Authority to send forth Preachers to the world) and do not hold in strictness distinct particular Congregations as in<g ref="char:EOLhyphen"/>dependent to any but the Lord Christ: so this Discourse might be at a loss indeed: but they would be at a far greater; for if the matter should be so with them, the matter of Baptism, with the great ado they keep about it excepted, they may face about, and be as before they were.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="18" facs="tcp:207756:14"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>
+                     <hi>Containing a brief Discovery of the contrary walking of the a<g ref="char:EOLhyphen"/>foresaid Churches to their own Principles, in heading them in Worship, whom they condemn for Idolaters, and of the World.</hi>
+                  </p>
+               </argument>
+               <p>THE second particular instance in the aforesaid Churches, is their general received principle and opinion con<g ref="char:EOLhyphen"/>cerning the People of this Nation that are not of their way of re-baptizing, and under, as they call it, their Baptism of total dipping; namely, that they are of the World, and no other way to be considered, that they are Infidels, un<g ref="char:EOLhyphen"/>baptized persons, such as in that state and condition have no<g ref="char:EOLhyphen"/>thing to do with any Gospel-ordinances or worship; that the gatherings of these, chiefly the Parishes, are no Churches of Christ in any consideration, but heaps of Confusion, and Antichristian Assemblies; with which their petty Pamphlets are stuffed full, as were the Writings of their Predecessours formerly, from whom they learned the same.</p>
+               <p>But now let us see how true they are to their own prin<g ref="char:EOLhyphen"/>ciples, and how answerable their walking is to their own grounds, which they call the truths of the Lord Jesus, in fre<g ref="char:EOLhyphen"/>quently heading in worship the aforesaid people, getting up into their Pulpits, and places of Oratory, carrying on and performing their worship with them and for them, becoming their advocates and mouth to God in prayer and praises; ut<g ref="char:EOLhyphen"/>terly forgetting,
+<note place="margin">2 Cor. 6.</note> as it seemeth, that <hi>the Temple of God and Idols should not have fellowship together;</hi> yea some of their Elders become fixed Teachers to these Assemblies, one while serving that which they call the Church of God, and then by and by that which they call the World, or an Harlot; and their Messengers which they send forth (with little warrant God knows) to preach to the world to convert them, are found thus joyning with those in their worship, that in their Principles they count enemies to the Lord, and rebels; and so they <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the Assembly, and be
+<pb n="19" facs="tcp:207756:14"/>the mouth of these to God and men, they think all is well; as if thus to do were not a higher violation of their prin<g ref="char:EOLhyphen"/>ciples, then a persons joyning with them in a lower capacity, as a Patient, rather then an Agent or Acter in the way of their worship, which according to their principles can be reckoned for no less then Idolatry.</p>
+               <p>What earthly power would take it wel, that any under them should joyn with, much less be Chieftain and Head of such as are Rebels and Traitors to them? God is a jealous God. Did the Apostles of our Lord, or any that were of the Pri<g ref="char:EOLhyphen"/>mitive Churches, enter into the Idols Temple, when the Ido<g ref="char:EOLhyphen"/>laters were assembled to worship, and there officiate and carry on the worship for them, under a specious pretence of converting of them?
+<note place="margin">Gal. 2.14.</note> is such a course <hi>the right way to the Gospel?</hi> Nay, did they or any of them in the Temple or Sy<g ref="char:EOLhyphen"/>nagogues take on to be Masters or Heads of the Assemblies there, and carry on the worship that was there performed? Though the Jews were otherwise considerable in their re<g ref="char:EOLhyphen"/>lation to God, then to be counted simply of the world; In<g ref="char:EOLhyphen"/>deed in the Temple, and in the Synagogues they published the Lord Jesus; but that they prayed there as the mouth of the multitude, I have not read, much less that they did it in a worship wise, or that they in the Temple or Synagogues be<g ref="char:EOLhyphen"/>gan their preaching of Christ with a set prayer before, and a solemn prayer, and thanksgiving, and blessing after, according to the worship wise of the Nation.</p>
+               <p>The Assemblies into which these Messengers and gifted Brethren go thus to preach, or make Orations and Prayers, being united to these Preachers for the time as their Head, their Leader, their Mouth, one that is their Instrument, acteth for them, and in their behalf, in worshipping of God, he and they making up one Body or Assembly.</p>
+               <p>If this be <hi>a coming from among them,</hi>
+                  <note place="margin">2 Cor. 6.</note>
+                  <hi>and a touching no un<g ref="char:EOLhyphen"/>clean thing, I am deceived;</hi> and so I am also, if this come not within the reproof of the Apostle in the following words, <hi>What fellowship hath righteousness with unrighteousness? what concord hath Christ with Belial? what part hath the Believer
+<pb n="20" facs="tcp:207756:15"/>with the Infidel? or the Temple of God with Idols?</hi> 2 Cor. 6.14, 15, 16.</p>
+               <p>The judgement and practice of these (to any indifferent mans discerning that shall weigh them) fighting one with the other, their practice offering to their principles the great<g ref="char:EOLhyphen"/>est affront and violence that possibly can be, which some in<g ref="char:EOLhyphen"/>genuous and conscientious amongst themselves see well enough:</p>
+               <p>Were it not good for them either to amend their prin<g ref="char:EOLhyphen"/>ciples, or their practice, or both? indeed they have great cause to mend both, especially their principles: for they are very harsh, uncharitable, unchristian, yea unsound, without foundation in the Word of God.</p>
+               <p>But alas, though many of them see something this way, yet they must keep up their principles, lest they shake and overthrow the whole building of their way of baptizing, by total dipping for Baptism such as were baptized before, which is their beloved Darling.</p>
+               <p>Did the Primitive Christians go into the Idols Temples, joyn with those there, come together to worship, help them to carry on their worship in the solemn meetings for that end? The poor blind Jews medled not with the Samaritans: yet these, notwithstanding the vast distance their principles do make between themselves, and others not of their way, can meddle with them in the things of worship, under a spe<g ref="char:EOLhyphen"/>cious pretence of preaching the Gospel unto them; and so as with <hi>Diotrephes,</hi> they may have the preheminence to be the head of the Assembly, and mouth of, and to the whole, it shall bear them out, and they shall be no Trespassers. O there is some secret mysterie in it, this being the mouth, some cordial preservative from the pollution of Idolatry, that excuseth, preserveth and bears out all.</p>
+               <p>For let but any of their number joyn with the aforesaid Assemblies, to wit, the Parishes, when they in their worship officiate by their own Ministers, and they shall be accounted Trespassers of so high a nature, as to deserve for their Idola<g ref="char:EOLhyphen"/>try to be cast out, as some have been: but as before, this
+<pb n="21" facs="tcp:207756:15"/>being the mouth, it helpeth all; and the pretence of preach<g ref="char:EOLhyphen"/>ing to convert them, shall carry it out: but it doth not serve to satisfie all, for something of this nature hath made a breach lately in one of their most eminent Churches, as they well know.</p>
+               <p>Is it not a great pity to see them that are so fully separate from the world, and the Idolatries of it, as they pretend they are, so to pollute and defile themselves in mixing and joyning with Idolaters, and unbaptized Infidels? not hearkning to the good counsel of the Spirit by the holy Apostle, <hi>John</hi> 5. <hi>Babes, keep your selves from Idols, Amen.</hi> So as I shall onely propose unto them the review of their principles, and more serious consideration of the consistency that is in them each with other, as a close in this particular; as also concerning the uncompleatness of their Churches for want of Elders, they may please to consider of it. And in regard of their Messengers, the sending of them forth to preach unto the world, in which they are so forward and zealous; they may do well to consult their Authority better, and to see whe<g ref="char:EOLhyphen"/>ther they be sufficiently impowered by the Lord Christ so to do; and withall to consider seriously, whether those they shall purpose hereafter to send forth, be sufficiently qualified with gifts, before they give forth new commissions; and to see whether it be not necessary for their Brethren <hi>to tarry and wait in the Church untill the holy Ghost shall come upon them,</hi>
+                  <note place="margin">Acts 1.4.</note>
+                  <hi>and they be enabled to speak with tongues;</hi>
+                  <note place="margin">V. 8.</note> or till he say to them, as he did to the Church of <hi>Antioch, Separate me</hi> Paul <hi>and</hi> Barnabas <hi>for the work, &amp;c.</hi> Acts 13.</p>
+               <p>For truly it is a low and Un-Gospel like thing for any to be sent, or to go to some little corner of the land of their na<g ref="char:EOLhyphen"/>tivity, where the name of Christ is known already, and not to go to places and people that have not heard of him; to de<g ref="char:EOLhyphen"/>clare his name there, even to the utmost ends of the earth; but alas, poor, low and dumb Messengers, they cannot do it; they want the gift of tongues, and something else, so as to be able to cause every Nation to hear in their language the won<g ref="char:EOLhyphen"/>derful works of God, <hi>Acts</hi> 2.6, 8, 11.</p>
+               <pb n="22" facs="tcp:207756:16"/>
+               <p> In the mean time, while they are thus waiting, these Churches may do well to choose these able Brethren that are fit for Apostles and Messengers in a preaching way to the world, to choose them Elders and Officers of their Churches, and so they would be found more compleat and Gospel-like then now they are, and better fed, governed and administred unto according to the mind of Christ: For sure they cannot think them unfit or unworthy to be Elders or Officers in the Church, whom they count fit or worthy to be sent forth as Messengers of their Churches in a preaching Apostolique way.</p>
+               <p>But what all that hath been said will avail, is not easy to determine; the belly hath no ears; something of humane wisedom, and of the spirit of the world, will, it may be fear<g ref="char:EOLhyphen"/>ed, be found making opposition, to the perverting the strait waies of the Lord.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:207756:16"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
